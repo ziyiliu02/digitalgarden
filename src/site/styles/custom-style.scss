@@ -3,10 +3,9 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    .site-name, 
-    .header-title, 
-    a.site-title,
-    header h1 {
+    .filetree-sidebar h1,
+    .filetree-sidebar a,
+    .filetree-sidebar a h1 {
       color: #000000 !important;
     }
     //  background-color: white;
